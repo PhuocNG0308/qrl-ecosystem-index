@@ -19,6 +19,10 @@ features:
     - Fund tracing, counterparties and balance-over-time per wallet
     - Time period picker with playback
     - Exchange and entity labels from the Quantascan directory
+gallery:
+    - type: image
+      path: quantum-bubble-maps/map.webp
+      caption: QRL wallets over the last 7 days as bubbles, grouped into clusters, with exchanges labelled and top holders listed.
 id: quantum-bubble-maps
 keywords:
     - bubble-map

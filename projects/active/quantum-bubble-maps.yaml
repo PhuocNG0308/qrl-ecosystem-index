@@ -63,3 +63,7 @@ features:
 logos:
   - path: quantum-bubble-maps/icon.png
     description: Quantum Bubble Maps icon
+gallery:
+  - type: image
+    path: quantum-bubble-maps/map.webp
+    caption: QRL wallets over the last 7 days as bubbles, grouped into clusters, with exchanges labelled and top holders listed.
